@@ -1,1 +1,1 @@
-web: npm run deploy
+web: docker-compose up -d
